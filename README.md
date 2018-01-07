@@ -12,10 +12,10 @@ needs python2 to run
 
 ### list tasks
 
-    taskforce
+    taskforce.py
 
 Normal tasks are shown in square brackets `[pid]`, hidden tasks in angle brackets `<pid>`.
 
 ### kill task
 
-    taskforce -k 1234
+    taskforce.py -k 1234
